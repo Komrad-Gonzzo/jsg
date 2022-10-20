@@ -3,6 +3,7 @@ const screens = document.querySelectorAll('.screen')
 const timeList = document.querySelector('#time-list')
 const timeEl = document.querySelector('#time')
 const board = document.querySelector('#board')
+const colors = ['#00736c','#54ccb1','#d7ffc1','#ff796d','#b30d59']
 let time = 0
 let score = 0
 
